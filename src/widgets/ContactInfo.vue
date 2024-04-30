@@ -59,6 +59,7 @@
         <h3 class="title">E-mail</h3>
         <h5 class="title">M.Tashxodjayev@ihma.uz</h5>
       </div>
+      
     </a>
     <a
       href="https://www.google.ru/maps/place/77FW%2BVJW,+%D0%A2%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%82,+Toshkent+Shahri,+%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD/@41.2747688,69.2965898,21z/data=!4m6!3m5!1s0x38aef556e3da25f3:0x16de9cc6ad44b984!8m2!3d41.2748647!4d69.2964605!16s%2Fg%2F11vjlrwq3y?hl=ru&entry=ttu"
