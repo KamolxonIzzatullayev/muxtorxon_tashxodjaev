@@ -30,7 +30,7 @@ const saveContact = () => {
 <template>
   <div class="person-data">
     <h1>Mukhtorkhon Tashkhodjaev, Mr.</h1>
-    <p>Deputy Director of the National Social Security Agency under the President of the Republic of Uzbekistan</p>
+    <p>Deputy Director of the National Agency for Social Protection</p>
     <div class="divider"></div>
     <p>Chairman of the National Paralympic Committee of Uzbekistan</p>
     <div class="divider"></div>
