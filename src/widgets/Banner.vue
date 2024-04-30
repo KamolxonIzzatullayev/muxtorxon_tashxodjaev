@@ -4,7 +4,7 @@
   <div class="my-banner">
     <div class="bg"></div>
     <div class="image">
-      <img src="@/assets/person.jpg" alt="" />
+      <img src="@/assets/person.jpeg" alt="" />
     </div>
   </div>
 </template>

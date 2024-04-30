@@ -29,7 +29,7 @@
 
       <div class="right-collar">
         <h3 class="title">Contact Number</h3>
-        <h5 class="title">+998 95 188 18 08</h5>
+        <h5 class="title">+998 71 239 59 36</h5>
       </div>
     </a>
     <a href="mailto:m.olloyorov@ihma.uz" target="_blank" class="item">
@@ -57,7 +57,7 @@
 
       <div class="right-collar">
         <h3 class="title">E-mail</h3>
-        <h5 class="title">m.olloyorov@ihma.uz</h5>
+        <h5 class="title">mukhtorkhon.tashkhodjaev@gmail.com</h5>
       </div>
     </a>
     <a

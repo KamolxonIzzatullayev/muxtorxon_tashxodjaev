@@ -2,9 +2,9 @@
 const saveContact = () => {
   // Get the contact information from the website
   var contact = {
-    name: "Mansurbek Olloyorov, Mr.",
-    phone: "+998951881808",
-    email: "m.olloyorov@ihma.uz",
+    name: "Mukhtorkhon Tashkhodjaev, Mr.",
+    phone: "",
+    email: "mukhtorkhon.tashkhodjaev@gmail.com",
   };
   // create a vcard file
   var vcard =
@@ -29,11 +29,13 @@ const saveContact = () => {
 
 <template>
   <div class="person-data">
-    <h1>Mansurbek Olloyorov, Mr.</h1>
-    <p>Advisor to the President of Republic of Uzbekistan</p>
+    <h1>Mukhtorkhon Tashkhodjaev, Mr.</h1>
+    <p>Deputy Director of the National Social Security Agency under the President of the Republic of Uzbekistan</p>
     <div class="divider"></div>
-    <p>Director of National Agency for Social protection</p>
-    <button @click="saveContact" >Save contact</button>
+    <p>Chairman of the National Paralympic Committee of Uzbekistan</p>
+    <div class="divider"></div>
+    <p>Vice President of Paralympic Committee Asia</p>
+    <button @click="saveContact">Save contact</button>
   </div>
 </template>
 
