@@ -12,7 +12,7 @@
 <style lang="scss" scoped>
 .my-banner {
   // background: linear-gradientto bottom, rgba(0, 0, 0, 0) 0%, #0C0E40 10%);
-  // background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #0c0e40 100%);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #0c0e40 100%);
   height: 16.5rem;
   width: 100%;
   display: flex;

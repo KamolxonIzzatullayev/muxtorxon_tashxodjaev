@@ -73,7 +73,6 @@ const saveContact = () => {
     color: var(--text-color);
     border-radius: 6.25rem;
     margin-top: 1.3125rem;
-    border: 1px solid white;
   }
 }
 </style>

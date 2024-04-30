@@ -1,8 +1,8 @@
 <script setup lang="ts"></script>
 
 <template>
-    <div class="contacts">
-      <a href="tel:+998951881808" target="_blank" class="item">
+  <div class="contacts">
+    <a href="tel:+998951881808" target="_blank" class="item">
       <div class="left-collar">
         <svg
           width="37"
@@ -111,7 +111,7 @@
     gap: 1.25rem;
 
     .left-collar {
-      width: 1.5rem;
+      min-width: 1.5rem;
       height: 1.5rem;
       position: relative;
       margin-left: 1.4375rem;
