@@ -57,7 +57,7 @@
 
       <div class="right-collar">
         <h3 class="title">E-mail</h3>
-        <h5 class="title">mukhtorkhon.tashkhodjaev@gmail.com</h5>
+        <h5 class="title">M.Tashxodjayev@ihma.uz</h5>
       </div>
     </a>
     <a
